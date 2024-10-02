@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @rsLg455 - this is my code name in the virtual world!
-- 👀 I’m interested in programming and everything related to IT. I started programming in Basic on a Commodore64 back in 1984 and played around with CP/M operating system at that time! Have work with PC starting with 286 Intel processor, and used to programm in assembly language, PASCAL, and my first database experience was Dbase III! Then of course used a number of programming languages and databases DbaseIV, FoxPro, C..and eventually C++, Pro*C, SQLBase(Gupta Technologies), VB, VB.Net, ASP, Javascript...
-- Have also some years of experience in hardware and work as system administrator for one of the biggest organisation in Mauritius. 
-- 🌱 I’m currently learning Go and Python! Both on a professional level and also on personal level! 
+- 👀 I'm passionate about programming and everything IT-related. My journey began in 1984 when I started coding in Basic on a Commodore 64 and explored the CP/M operating system. I’ve worked on PCs since the Intel 286 processor era, programming in assembly language, Pascal, and gaining my first database experience with dBase III.
+
+Over the years, I’ve expanded my skill set, working with various programming languages and databases including dBase IV, FoxPro, C, C++, Pro*C, Oracle, SQLBase (Gupta Technologies), Visual Basic, VB.NET, Microsoft SQL, ASP, JavaScript, ASP.Net, Java, C#, Sybase, PostgreSQL. 
+
+In addition to programming, I have several years of experience in hardware and have worked as a system administrator/software developer/Project Leader for one of the largest organizations in Mauritius.
+- 🌱 I’m currently learning Go, Python, Rust and MongoDB! Both on a professional level and also on personal level! 
 - 💞️ I’m looking to collaborate on C#, Python and data engineering/analysis! 
 - 📫 rslg455@gmail.com
 
