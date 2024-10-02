@@ -4,7 +4,8 @@
 Over the years, I’ve expanded my skill set, working with various programming languages and databases including dBase IV, FoxPro, C, C++, Pro*C, Oracle, SQLBase (Gupta Technologies), Visual Basic, VB.NET, Microsoft SQL, ASP, JavaScript, ASP.Net, Java, C#, Sybase, PostgreSQL. 
 
 In addition to programming, I have several years of experience in hardware and have worked as a system administrator/software developer/Project Leader for one of the largest organizations in Mauritius.
-- 🌱 I’m currently learning Go, Python, Rust and MongoDB! Both on a professional level and also on personal level! 
+
+- 🌱 I’m currently learning Go, Python, Rust and MongoDB! Both on a professional level and also on personal level!  And also want improve my front-end development skill!
 - 💞️ I’m looking to collaborate on C#, Python and data engineering/analysis! 
 - 📫 rslg455@gmail.com
 
